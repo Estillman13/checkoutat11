@@ -1,6 +1,6 @@
 archetypeDir           = "archetypes"
 author                 = "admin"
-baseUrl                = "https://blissful-fermat-770c7e.netlify.com/"
+baseUrl                = "https://blissful-fermat-770c7e.netlify.com"
 buildDrafts            = false
 relativeURLs           = true
 canonifyUrls           = true

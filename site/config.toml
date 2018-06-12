@@ -8,7 +8,6 @@ contentDir             = "content"
 languageCode           = "en-us"
 layoutDir              = "layouts"
 theme                  = "pixyll"
-themesDir              = "../.."
 title                  = "Pixyll"
 enableEmoji            = true
 DefaultContentLanguage = "en"

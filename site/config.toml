@@ -1,6 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
+theme = "pixyll"
 title = "My new Victor-Hugo site"
 
 # RSS, categories and tags disabled for an easy start

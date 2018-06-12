@@ -1,11 +1,10 @@
 +++
-title = "Is that a cooking show?"
-date = "2017-08-30T18:34:02+00:00"
-tags = ["futurama"]
-draft = false
 author = "admin"
-+++
+date = "2017-08-30T18:34:02Z"
+tags = ["futurama", "surfer", "dude", "pie"]
+title = "Is that a cooking show?"
 
++++
 With a warning label this big, you know they gotta be fun! Son, as your lawyer, I declare y'all are in a 12-piece bucket o' trouble. But I done struck you a deal: Five hours of community service cleanin' up that ol' mess you caused.
 
 Why, those are the Grunka-Lunkas! They work here in the Slurm factory. Hi, I'm a naughty nurse, and I really need someone to talk to. $9. 95 a minute. Oh, how awful. Did he at least die painlessly? …To shreds, you say. Well, how is his wife holding up? …To shreds, you say.

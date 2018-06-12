@@ -6,4 +6,4 @@ title = "Kyle"
 +++
 Kyle is from San Diego. He said that he got most of his tattoos done in prison in Peru out of boredom.
 
-![](/uploads/Kyle.jpg)
+<img src="/uploads/Kyle.jpg" width="100%" />

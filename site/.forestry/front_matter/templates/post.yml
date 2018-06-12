@@ -5,3 +5,5 @@ fields:
 - type: tag_list
   label: Tags
   name: tags
+pages:
+- post/kyle.md

@@ -1,10 +1,36 @@
-baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-theme = "pixyll"
-title = "My new Victor-Hugo site"
+archetypeDir           = "archetypes"
+author                 = "admin"
+baseUrl                = "/"
+buildDrafts            = false
+relativeURLs           = true
+canonifyUrls           = true
+contentDir             = "content"
+languageCode           = "en-us"
+layoutDir              = "layouts"
+theme                  = "pixyll"
+themesDir              = "../.."
+title                  = "Pixyll"
+enableEmoji            = true
+DefaultContentLanguage = "en"
+#disqusShortname        = ""
 
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+[Languages]
+[Languages.en]
+weight = 1
+
+[Languages.ru]
+weight = 2
+
+[blackfriday]
+angledQuotes = true
+hrefTargetBlank = true
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  search_engine = true
+  #google_analytics_id = ""
+  twitter_username = "username"
+  paginate = 5

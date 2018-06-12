@@ -5,3 +5,16 @@ fields:
 - type: tag_list
   label: Tags
   name: tags
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - Backpacker
+    - Tourist
+    - Tico
+    - Tica
+  label: Categories
+  name: categories
+pages:
+- post/kyle.md

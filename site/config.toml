@@ -19,10 +19,10 @@ name = "Get in touch"
 url = "contact/"
 weight = 3
 [params]
-author = "Göran Svensson"
-authorlink = "https://appernetic.io/"
-bio = ["Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."]
-copyright = ["&copy; 2018 Göran Svensson", "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).", "A port of Tracks by Compete Themes."]
+author = "Eli Stillman"
+authorlink = "https://elistillman.com"
+bio = ["Eli Stillman fhcfh h f"]
+copyright = ["&copy; 2018 Eli Stillman"]
 description = "Describe your website"
 email = "Estillman13@gmail.com"
 slogan = "Passing Through"
